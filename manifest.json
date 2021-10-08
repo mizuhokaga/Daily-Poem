@@ -13,8 +13,9 @@
             "32": "images/icon.png"
         }
     },
-    "permissions": [
-        "https://v2.jinrishici.com/one.json"
-
+    "host_permissions": [
+        "https://v2.jinrishici.com/one.json",
+        "https://*.baidu.com/*"
     ]
+
 }
